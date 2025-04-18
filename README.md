@@ -2,6 +2,10 @@
 
 Qubly is a responsive, single-page landing website created as a UI/UX design prototype. Built with HTML5, CSS3, and vanilla JavaScript, it integrates modern frontend libraries for animations and layout optimization.
 
+## 🌐 Live Site
+
+👉 [Try Qubly Website](https://ivt-mad.github.io/Qubly/)
+
 ## 🔧 Features
 
 - Responsive design (mobile/tablet/desktop)
